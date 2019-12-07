@@ -13,3 +13,8 @@ elif A == 100:
     print("Perfect")
 else:
     print("Large")
+
+# Loop
+print('with for')
+for i in range(0, 10):
+    print(i+1, A)
